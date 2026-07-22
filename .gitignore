@@ -1,0 +1,4 @@
+js/firebase-config.js
+.env
+service-account*.json
+node_modules/
