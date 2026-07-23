@@ -17,7 +17,7 @@ const tools = [
   {
     name: "KDG MOD",
     video: "https://drive.google.com/file/d/1XwkukR1UMhOx5UuEMZfLiwtaUsKUMafH/view?usp=drivesdk",
-    download: "https://www.mediafire.com/file/0yaovd3eth4dm20/Kdg+Mod+Play+Together.apk/file",
+    download: "https://www.mediafire.com/file/zu7x3p3agjw69ob/Kdg_Mods_1.apk/file",
     note: "LÀM THEO VIDEO ĐỪNG COI LƯỚT."
   },
     {
